@@ -50,6 +50,8 @@ params:
   DateFormat: "2006-01-02"
   # ShowShareButtons: true
   ShowReadingTime: true
+  hideAuthor: true
+  hideSummary: true
   # disableSpecial1stPost: true
   # displayFullLangName: true
   ShowPostNavLinks: true
@@ -104,7 +106,7 @@ params:
 
   assets:
     # disableHLJS: true
-    favicon: "<link / abs url>"
+    favicon: "/favicon.ico"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
   #     apple_touch_icon: "<link / abs url>"
